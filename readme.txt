@@ -20,4 +20,8 @@ fea1
 xxxxxxxxxxxxxxxx
 
 
+<<<<<<< Updated upstream
 66666666666666666666
+=======
+gaigaigai ...........................
+>>>>>>> Stashed changes
